@@ -1,7 +1,10 @@
 
 # Projeto de back-end para locadora
 
-A brief description of what this project does and who it's for
+Nesse projeto eu aprendi sobre: O Node.js, o seu fincionamento e suas vantagens. Construimos uma Api
+copmpleta utilizando Node.js e Express. Utilizamos o Insommia para cadastrar nossas rotas e verificar
+o status codes das mesmas. Criamos um banco de dados utilizando o SQLite, Manipulamos o nosso DB utilizando a ferramenta 
+Beekeper Studio juntamente com o Query Builder Knex.js.
 
 
 ## Funcionalidades
